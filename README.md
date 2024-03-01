@@ -1,6 +1,6 @@
-# first_sol
+# Stride: Earn while you ride
 
-A new Flutter project.
+
 
 ## Getting Started
 
